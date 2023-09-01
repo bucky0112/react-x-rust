@@ -10,6 +10,7 @@
 
 # production
 /build
+/wasm-lib
 
 # misc
 .DS_Store
